@@ -1,10 +1,8 @@
 # OIDC 是什么？大白话讲解
-
+🌐 [English Version](oidc-simple-explanation.md) | **简体中文**
 > **面向初学者的 OpenID Connect 入门笔记，以 GitHub Actions 和 AWS ECR 为实际案例。**
 
 **语言：** 简体中文 · **主题：** OIDC、JWT、AWS IAM、STS、GitHub Actions、Amazon ECR
-
-[English Version](oidc-simple-explanation.md)
 
 ## 1. OIDC 是什么？
 
