@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="480" viewBox="0 0 1100 480">
+<rect width="1100" height="480" rx="24" fill="#f8fafc"/>
+<text x="550" y="54" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="30" font-weight="bold" fill="#0f172a">Docker Image vs. Attestation</text>
+<rect x="40" y="90" width="490" height="330" rx="20" fill="#e0f2fe" stroke="#7dd3fc" stroke-width="2"/>
+<rect x="570" y="90" width="490" height="330" rx="20" fill="#ecfdf5" stroke="#6ee7b7" stroke-width="2"/>
+<!-- bottle -->
+<rect x="223" y="142" width="124" height="34" rx="10" fill="#94a3b8"/><rect x="227" y="164" width="116" height="12" rx="4" fill="#cbd5e1"/>
+<path d="M230 174 L230 197 Q206 220 204 259 L204 333 Q204 354 226 354 L342 354 Q364 354 364 333 L364 259 Q362 220 340 197 L340 174 Z" fill="white" stroke="#64748b" stroke-width="5"/>
+<path d="M211 255 Q284 239 357 255 L357 330 Q357 348 338 348 L229 348 Q211 348 211 330 Z" fill="#e2e8f0"/>
+<rect x="237" y="270" width="94" height="49" rx="10" fill="#0ea5e9"/><text x="284" y="300" text-anchor="middle" font-size="23" fill="white" font-family="Arial">MILK</text>
+<!-- certificate -->
+<rect x="715" y="142" width="208" height="210" rx="12" fill="#fff" stroke="#64748b" stroke-width="5"/>
+<text x="819" y="179" text-anchor="middle" font-family="Arial" font-size="22" font-weight="bold" fill="#334155">BUILD RECORD</text>
+<path d="M755 201 H880 M755 227 H880 M755 253 H850" stroke="#94a3b8" stroke-width="7" stroke-linecap="round"/>
+<circle cx="817" cy="302" r="27" fill="#10b981"/><path d="M804 302 l9 9 18 -21" stroke="white" stroke-width="7" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="285" y="387" text-anchor="middle" font-family="Arial" font-size="25" font-weight="bold" fill="#075985">Docker Image</text>
+<text x="815" y="387" text-anchor="middle" font-family="Arial" font-size="25" font-weight="bold" fill="#065f46">Attestation</text>
+<text x="285" y="449" text-anchor="middle" font-family="Arial" font-size="19" fill="#334155">The product you run</text>
+<text x="815" y="449" text-anchor="middle" font-family="Arial" font-size="19" fill="#334155">Information about how it was built</text>
+</svg>
