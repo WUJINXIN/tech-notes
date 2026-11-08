@@ -1,5 +1,5 @@
 # OIDC Explained in Simple English
-
+🌐 **English** | [简体中文](oidc-simple-explanation.zh-CN.md)
 > **A beginner-friendly guide to OpenID Connect, using GitHub Actions and AWS ECR as a real-world example.**
 
 **Language:** English · **Topics:** OIDC, JWT, AWS IAM, STS, GitHub Actions, Amazon ECR
