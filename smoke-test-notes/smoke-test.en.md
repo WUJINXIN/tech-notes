@@ -10,7 +10,7 @@ The name comes from a simple idea in hardware testing: when you power on a new c
 
 Software follows the same logic: **check for obvious, critical problems first, and run detailed tests afterward.**
 
-##  2. Example: AWS ECS Fargate
+## 2. Example: AWS ECS Fargate
 
 Consider the Spring Boot project `game-leaderboard-api`. Its Docker image is stored in Amazon ECR, and we want to run it as an ECS Fargate task.
 
