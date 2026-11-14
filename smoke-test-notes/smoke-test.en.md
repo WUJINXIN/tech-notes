@@ -1,6 +1,6 @@
 # Smoke Testing: A Simple Explanation
 
-[简体中文](smoke-test.zh-CN.md)
+🌐 [English](smoke-test.en.md) | [简体中文](smoke-test.zh-CN.md)
 
 > **In one sentence:** A smoke test is a quick check after a software build or deployment to make sure the application starts and its most important functions work before running more detailed tests.
 
@@ -10,7 +10,7 @@ The name comes from a simple idea in hardware testing: when you power on a new c
 
 Software follows the same logic: **check for obvious, critical problems first, and run detailed tests afterward.**
 
-## 2. Example: AWS ECS Fargate
+##  2. Example: AWS ECS Fargate
 
 Consider the Spring Boot project `game-leaderboard-api`. Its Docker image is stored in Amazon ECR, and we want to run it as an ECS Fargate task.
 
