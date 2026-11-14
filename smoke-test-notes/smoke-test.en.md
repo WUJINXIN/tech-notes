@@ -1,6 +1,6 @@
 # Smoke Testing: A Simple Explanation
 
-🌐 [English](smoke-test.en.md) | [简体中文](smoke-test.zh-CN.md)
+🌐 English | [简体中文](smoke-test.zh-CN.md)
 
 > **In one sentence:** A smoke test is a quick check after a software build or deployment to make sure the application starts and its most important functions work before running more detailed tests.
 
