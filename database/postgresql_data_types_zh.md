@@ -1,5 +1,7 @@
 # PostgreSQL 数据类型通俗讲解
 
+🌐 **简体中文** | [English](postgresql_data_types_en.md)
+
 > 主题：`NUMERIC` vs `DOUBLE PRECISION`；`VARCHAR` vs `TEXT`；`TIMESTAMP` vs `TIMESTAMPTZ`。
 
 ## 1. 为什么金额使用 `NUMERIC`，而不是 `DOUBLE PRECISION`？
