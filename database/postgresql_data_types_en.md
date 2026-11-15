@@ -1,6 +1,6 @@
 # PostgreSQL Data Types Explained
 
-[中文版](postgresql_data_types_zh.md)
+🌐 [简体中文](postgresql_data_types_zh.md) | **English**
 
 > Topics: `NUMERIC` vs `DOUBLE PRECISION`; `VARCHAR` vs `TEXT`; `TIMESTAMP` vs `TIMESTAMPTZ`.
 
